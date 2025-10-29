@@ -52,7 +52,24 @@ It’s also an open-source space where anyone can **contribute**, **fix bugs**, 
 We welcome all contributions! Whether it’s fixing a bug, optimizing logic, or adding a new gameplay mechanic — pull requests are encouraged.
 
 🪩 Contribution Steps
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Push to your fork
+5. Submit a pull request
+   💡 Got a cool idea? Don’t hesitate — submit a PR and help grow the community-driven game!
 
+## 🏁 Roadmap
+
+- [ ] Add more game modes  
+- [ ] Improve animations & player sprites  
+- [ ] Introduce matchmaking system  
+- [ ] Add spectator view  
+- [ ] Enhance leaderboard filters  
+
+📜 License
+
+This project is released under the MIT License — free to use, modify, and share.
 
 ## ⚙️ Getting Started  
 
